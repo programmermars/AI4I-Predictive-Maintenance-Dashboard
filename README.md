@@ -3,7 +3,8 @@
 ## Project Overview
 This project demonstrates an event-based predictive maintenance analysis using the AI4I manufacturing dataset.  
 The dashboard evaluates equipment reliability, downtime patterns, and operational efficiency through OEE computation and failure root cause analysis.
-
+## Dashboard Screenshot
+![Dashboard Preview](AI4I-Predictive-Maintenance-Dashboard/dashboard_overview.png) 
 ## Key Metrics
 - Planned Minutes: 10,000
 - Down Minutes: 339
@@ -31,7 +32,7 @@ The dashboard evaluates equipment reliability, downtime patterns, and operationa
 - DAX
 - Event-based data modeling
 - Reliability analysis methods
-## ![Dashboard Preview](AI4I-Predictive-Maintenance-Dashboard/dashboard_overview.png) 
+
 ## Dataset
 AI4I 2020 Predictive Maintenance Dataset
 
