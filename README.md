@@ -31,7 +31,7 @@ The dashboard evaluates equipment reliability, downtime patterns, and operationa
 - DAX
 - Event-based data modeling
 - Reliability analysis methods
-
+## ![Dashboard Preview](AI4I-Predictive-Maintenance-Dashboard/dashboard_overview.png) 
 ## Dataset
 AI4I 2020 Predictive Maintenance Dataset
 
